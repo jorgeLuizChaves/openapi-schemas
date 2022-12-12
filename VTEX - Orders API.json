@@ -94,6 +94,10 @@
                             "type": "string",
                             "nullable": true
                           },
+                          "NewField5": {
+                            "type": "string",
+                            "nullable": true
+                          },
                           "Subscriptions": {
                             "type": "array",
                             "nullable": true,
