@@ -82,6 +82,10 @@
                             "type": "string",
                             "nullable": true
                           },
+                          "NewField2": {
+                            "type": "string",
+                            "nullable": true
+                          },
                           "Subscriptions": {
                             "type": "array",
                             "nullable": true,
